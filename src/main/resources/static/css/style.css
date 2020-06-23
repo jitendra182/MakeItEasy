@@ -1,0 +1,48 @@
+.msg{
+    border: skyblue solid;
+
+    
+}
+.my-input{
+    margin-top: 40px ;
+    margin-left: 100px;
+    border: 1px solid;
+}
+#date-time{
+    margin-left: 80%;
+}
+#show{
+	margin-left: 30%;s
+}
+.myOrderContainer{
+	margin-top: 20px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	border-bottom: 3px solid black;
+}
+.myAbout{
+	padding-top: 20px;
+	
+}
+footer{
+	padding: 20px;
+	margin-top:20px;
+	color: #ffffff;
+	background-color: #0000ff;
+	margin-bottom: 0px;
+}
+footer .my-foot-left{
+	float:left;
+	padding-left: 30%;
+	
+}
+footer .my-foot-right{
+	float: right;
+	padding-right: 20px;
+}
+#about-text {
+	color: white;
+	position: absolute;
+	top: 20%;
+	left: 40%;
+}
